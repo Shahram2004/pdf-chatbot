@@ -1,0 +1,22 @@
+# 📄 PDF AI Chatbot
+
+Chat with any PDF using AI. Upload a PDF and ask it anything.
+
+## Features
+- 💬 Chat with your PDF
+- 📋 Auto summarize
+- ❓ Quiz generator  
+- 🧠 Multiple AI models
+- 📥 Export chat history
+
+## Built With
+- Python
+- Streamlit
+- LangChain
+- Groq (Llama 3)
+
+## Setup
+1. Clone the repo
+2. Run: pip install -r requirements.txt
+3. Add your Groq API key in app.py
+4. Run: python -m streamlit run app.py
